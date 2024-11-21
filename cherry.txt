@@ -1,9 +1,7 @@
-Write the command to display the last five commits in the repository's history.
 hi
 hello 
 good morning
 hi  i am mohammed salman bagayat
 hi i am mohammed kamil shaikh 
 hi i am mohammed huzaif kaladgi
-
 
